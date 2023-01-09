@@ -1,0 +1,91 @@
+{
+    "hs":{
+        "val":"hs",
+        "icon":"img/home-icon.jpeg",
+        "name":"Home Services",
+        "desc":"These are the home services we provide ..",
+        "serv":[
+            "Home Decor",
+            "Pest Control",
+            "Grocery"
+        ]
+    },
+    "ps":{
+        "val":"ps",
+        "icon": "img/party-icon.jpeg",
+        "name":"Party and Social",
+        "desc":"These are the Party and Social Gathering services we provide here..",
+        "serv":[
+            "Catering",
+            "Sound system",
+            "lightings",
+            "DJ"
+        ]
+    },
+    "ms":{
+        "val":"ms",
+        "icon": "img/medical-icon.jpeg",
+        "name": "Medical Services",
+        "desc": "These are the medical services we provide ..",
+        "serv": [
+            "Doctor",
+            "Chemist",
+            "Psychiatrist"
+        ]
+    },
+    "as": {
+        "val":"as",
+        "icon": "img/automobiles-icon.jpeg",
+        "name": "Automobile Services",
+        "desc": "These are the automobile services we provide ..",
+        "serv": [
+            "Bike repair",
+            "Car repair",
+            "Mechanic"
+        ]
+    },
+    "pgs": {
+        "val":"pgs",
+        "icon": "img/personal-icon.jpeg",
+        "name": "Personal and Grooming services",
+        "desc": "These are the personal and grooming services we provide ..",
+        "serv": [
+            "Yoga trainer",
+            "Counsellor",
+            "Gym"
+        ]
+    },
+    "es": {
+        "val":"es",
+        "icon": "img/education-icon.jpeg",
+        "name": "Educational & career Services",
+        "desc": "These are the education and career services we provide ..",
+        "serv": [
+            "Tutor",
+            "Coaching",
+            "Schooling"
+        ]
+    },
+    "ts": {
+        "val":"ts",
+        "icon": "img/tech-icon.jpeg",
+        "name": "Tech and web Services",
+        "desc": "These are the tech and web services we provide ..",
+        "serv": [
+            "Mobile service",
+            "Computer repair",
+            "Web service"
+        ]
+    },
+    "tts": {
+        "val":"tts",
+        "icon": "img/travel-icon.jpeg",
+        "name": "Travel and Tourism Services",
+        "desc": "These are the travel and tourism services we provide ..",
+        "serv": [
+            "Guide",
+            "Ticket",
+            "Hotel"
+        ]
+    }
+}

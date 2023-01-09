@@ -1,0 +1,35 @@
+body{ 
+    overflow: hidden;
+}
+.cov1{
+    background-image:url('../img/9.jpeg');
+    background-size: cover;
+    position: absolute;
+    height:100%;
+    width:100%;
+}
+.cov{
+    background-color: rgba(0,0,0,0.8);
+    position: absolute;
+    height:100%;
+    width:100%;
+
+}
+.navbar .nav-item{
+  padding:0 16px;
+}
+#head{
+    margin-top: 20px;
+    text-align: center;
+    color:white;
+}
+hr{
+    border-color: #fff;
+}
+#bodyf h3 a{
+    padding:0 10px;
+    color:#fff;
+}
+.btn{
+    width:300px;
+}

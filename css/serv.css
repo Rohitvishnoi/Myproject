@@ -1,0 +1,56 @@
+body{
+    background: url('../img/11.jpeg') center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.cov2{
+    background-color: rgba(255,255,255,0.75);
+}
+.navbar .nav-item{
+  padding:0 16px;
+}
+.navbar .navbar-brand{
+  font-size: 30px;
+}
+.contain1{
+    width:85%;
+    height:90vh;
+    margin:auto;
+}
+
+.mainico img{
+    width:500px;
+    margin:60px;
+    border-radius:250px;
+}
+a{
+    color:#0066ff;
+}
+a:hover{
+    color:#0099ff;
+    text-decoration: none;
+}
+
+#links{
+  padding:50px 0;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+#links p{
+  color:#00ddff;
+}
+#links a{
+  color:#fff;
+  text-decoration: none;
+}
+#links a:hover{
+  color:#0099ff;
+}
+#footer{
+  padding:20px;
+  background-color: #222;
+}
+#footer p{
+  margin:0;
+}

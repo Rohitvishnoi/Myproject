@@ -1,0 +1,74 @@
+body{
+  overflow-x: hidden;
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  background: url('../img/be_bestman_cover.jpeg') center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.nav-colored {
+   background-color:#fff;
+}
+.nav-transparent {
+  background-color:transparent;
+}
+.navbar .nav-item{
+  padding:0 16px;
+}
+.navbar .navbar-brand{
+  font-size: 30px;
+}
+.navbar button{
+  border: none;
+  float: right;
+}
+.cov{
+  text-align: center;
+}
+#showcase{
+  margin-left: 10rem;
+}
+#showcase hr{
+  border:1px #333 solid;
+  width: 410px !important;
+  margin:0;
+}
+#showcase .content{
+  margin-top:90px;
+  width: 60vw;
+  float: left;
+}
+#showcase .content h1{
+  font-size: 3.3rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background: transparent;
+}
+
+#showcase .content p {
+  color: #000;
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+#showcase hr{
+  float: left;
+  width: 40vw;
+}
+form .col{
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+#form{
+  background: rgba(0,0,0,0.6);
+  color: white;
+  border-radius: 5px;
+}
+#footer{
+  padding:20px;
+  background-color: #222;
+}
+#footer p{
+  margin:0;
+}

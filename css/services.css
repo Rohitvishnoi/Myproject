@@ -1,0 +1,81 @@
+body{
+    background:url('../img/10.jpeg') center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+.con2{
+    background: rgba(255, 255, 255, 0.9);
+}
+.navbar .nav-item{
+  padding:0 16px;
+}
+.navbar .navbar-brand{
+  font-size: 30px;
+}
+#servhead{
+    margin-bottom:50px; 
+}
+#servhead h1{
+    font-size: 70px;
+    font-weight:bold;
+    margin:30px;
+}
+.con1{
+    width:95%;
+    margin:auto;
+}
+#boxes{
+    padding-bottom:100px;
+}
+#boxes .box{
+    height: 250px;
+    padding-top:50px;
+    transition: all 0.2s ease-in-out;
+    border-radius: 5px;
+}
+#boxes .box .ico{
+    font-size: 55px;
+}
+#boxes .box p{
+    display:none;
+}
+#boxes .box:hover{
+    padding-top:12px;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 5px 10px 1px rgba(0,0,0,0.3);
+}
+#boxes .box:hover p{
+    transition: all 0.2s ease-in-out;
+    display: block;
+}
+#links{
+  padding:50px 0;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+#links p{
+  color:#00ddff;
+}
+#links a{
+  color:#fff;
+  text-decoration: none;
+}
+#links a:hover{
+  color:#0099ff;
+}
+#footer{
+  padding:20px;
+  background-color: #222;
+}
+#footer p{
+  margin:0;
+}
